@@ -1,4 +1,4 @@
 package Strategy;
 
-public class DiscountStrategy {
+public interface DiscountStrategy {
 }
