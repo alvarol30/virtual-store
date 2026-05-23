@@ -1,4 +1,4 @@
 package Strategy;
-
-public interface DiscountStrategy {
+public interface DiscountStrategy{
+    double applyDiscount(double total);
 }
