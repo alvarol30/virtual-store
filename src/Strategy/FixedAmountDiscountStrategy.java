@@ -4,6 +4,7 @@ public class FixedAmountDiscountStrategy implements DiscountStrategy{
     public FixedAmountDiscountStrategy(float MontoDescuento) {
         this.MontoDescuento = MontoDescuento;
     }
+    @Override
     public double applyDiscount(double total) {
         double MontoFinal= total - MontoDescuento;
         if(MontoFinal < 0){
