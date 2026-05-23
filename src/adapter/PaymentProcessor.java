@@ -1,4 +1,4 @@
 package adapter;
-
-public interface PaymentProcessor {
+public interface PaymentProcessor{
+    void pay(double amount);
 }
