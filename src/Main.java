@@ -9,7 +9,7 @@ import Strategy.FixedAmountDiscountStrategy;
 import Strategy.PercentageDiscountStrategy;
 public class Main {
     public static void main(String[] args) {
-        // PRODUCTOS
+        // PRODUCTOSS
         Product laptop = new Product("Laptop Gamer", 3500);
         Product mouse = new Product("Mouse Logitech", 150);
         Product keyboard = new Product("Teclado Mecánico", 300);
