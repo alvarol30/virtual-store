@@ -1,4 +1,4 @@
-Este proyecto consiste en el desarrollo de una tienda virtual por consola en Java, aplicando distintos patrones de diseño de software para resolver problemas específicos dentro del sistema.
+Este proyecto consiste en el desarrollo de una tienda virtual por consola, aplicando distintos patrones de diseño de software para resolver problemas específicos dentro del sistema.
 La aplicación permite:
 - Registrar productos.
 - Agregar productos a un carrito de compras.
